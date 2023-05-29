@@ -2,7 +2,7 @@ import json
 import re
 
 def extract_q_and_a(text):
-    question_answer_pattern = r'Q:\s*(.*?)\s*\nA:\s*(.*)'
+    question_answer_pattern = r'\|(.*)\|(.*)'
 # Regex patterns to find questions and answers
     matches = re.findall(question_answer_pattern, text)
     questions = [match[0] for match in matches]
