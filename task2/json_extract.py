@@ -1,33 +1,34 @@
-import re
-import json
-import codecs
+import re, json, os, codecs
 
-file_path = '/home/Lucas.Welch.25/modulus-magnus-linguae/task2/main.a91a856b.chunk.js'
+file_path = 'quizzes.json'
 
 with open(file_path, 'r') as file:
     js_function = file.read()
 
-# updated pattern to find JSON.parse calls with single or double quotes
+# Extracting each json for each chapter
 pattern = r'JSON\.parse\((["\'])(.*?)\1\)'
 
 matches = re.findall(pattern, js_function, re.DOTALL)
 
 json_objects = []
 
+# Iterates through each json for each chapter
 for match in matches:
-    # match[1] will contain the actual string, match[0] will be the quote type
     try:
-        # remove extra backslashes
         unescaped_str = codecs.decode(match[1], 'unicode_escape')
-        # try to load the match as JSON
         json_obj = json.loads(unescaped_str)
         json_objects.append(json_obj)
     except (json.JSONDecodeError, UnicodeDecodeError):
-        continue
+        pass
 
-# define path to the output file
-output_file_path = '/home/Lucas.Welch.25/modulus-magnus-linguae/task2/latin_json.json'
+directory = "chapterinfo"
+if not os.path.exists(directory):
+    os.makedirs(directory)
 
-# write JSON objects to a file
-with open(output_file_path, 'w') as outfile:
-    json.dump(json_objects, outfile, indent=4)
+# Creates a json file for each chapter
+for chapter in json_objects:
+    filename = f"CH_{chapter['id'] + 1}.json"
+    filepath = os.path.join(directory, filename)
+
+    with open(filepath, 'w') as f:
+        json.dump(chapter, f, indent=4)
