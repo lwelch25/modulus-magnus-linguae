@@ -1,0 +1,16 @@
+Given a list of Latin sentences with words that have missing endings marked with the character ~, predict the missing endings based on the context. Provide the answer only.
+
+Here are three examples with different ‘Question’ and ‘Answer’ in Latin:
+
+Example 1:
+Question: Nilus fluvi~ est.
+Answer: us
+
+Example 2: 
+Question: Brundisium oppid~ est.
+Answer: um
+
+Example 3:
+Question: I et II numer~ Roman~ sunt.
+Answer: i i
+

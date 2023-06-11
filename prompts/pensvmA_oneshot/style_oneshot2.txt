@@ -1,0 +1,8 @@
+This is a quiz of your ability to understand latin grammar. For each problem there is a ~ character in the text and your job is to figure out what word should be replaced by the ~. Provide the answer only.
+
+Here is an example with ‘Question’ and ‘Answer’ in Latin:
+
+Example:
+Question: Brundisium oppid~ est.
+Answer: um
+

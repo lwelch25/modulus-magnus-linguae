@@ -1,0 +1,8 @@
+For each Latin question, you need to comprehend the question and generate an accurate response in Latin. Keep in mind that your answers should maintain the proper grammatical structure of the Latin language. Provide the answer only. 
+
+Here is an example with ‘Question’ and ‘Answer’ in Latin:
+
+Example:
+Question: Estne Britannia insula parva?
+Answer:  Britannia non insula parva, sed insula magna est.
+

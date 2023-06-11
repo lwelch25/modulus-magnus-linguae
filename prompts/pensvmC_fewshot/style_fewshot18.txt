@@ -1,0 +1,16 @@
+The task at hand involves answering a series of Latin questions, which will involve geographical locations, Latin vocabulary, and Roman numerals. Make sure you understand the question and respond correctly and succinctly in Latin. Provide the answer only. 
+
+Here are three examples with different ‘Question’ and ‘Answer’ in Latin:
+
+Example 1:
+Question: Ubi est Roma?
+Answer: Roma in Italia est.
+
+Example 2:
+Question: Estne Britannia insula parva?
+Answer:  Britannia non insula parva, sed insula magna est.
+
+Example 3: 
+Question: Estne II magnus numerus?
+Answer: II non magnus numerus, sed parvus numerus est.
+

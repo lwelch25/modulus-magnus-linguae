@@ -1,0 +1,16 @@
+For each Latin question, you need to comprehend the question and generate an accurate response in Latin. Keep in mind that your answers should maintain the proper grammatical structure of the Latin language. Provide the answer only. 
+
+Here are three examples with different ‘Question’ and ‘Answer’ in Latin:
+
+Example 1:
+Question: Ubi est Roma?
+Answer: Roma in Italia est.
+
+Example 2:
+Question: Estne Britannia insula parva?
+Answer:  Britannia non insula parva, sed insula magna est.
+
+Example 3: 
+Question: Estne II magnus numerus?
+Answer: II non magnus numerus, sed parvus numerus est.
+

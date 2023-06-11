@@ -1,0 +1,8 @@
+You will be presented with a series of questions in Latin about geographical locations and basic Latin concepts. Understand the context of the question and respond accurately in Latin. Ensure your answers are grammatically correct. Provide the answer only. 
+
+Here is an example with ‘Question’ and ‘Answer’ in Latin:
+
+Example: 
+Question: Estne II magnus numerus?
+Answer: II non magnus numerus, sed parvus numerus est.
+

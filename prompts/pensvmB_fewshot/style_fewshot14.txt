@@ -1,0 +1,16 @@
+Each ~ represents a missing phrase. Based on this knowledge, figure out what phrase should replace the ~ in the question. This quiz is in Latin. Provide the answer only.
+
+Here are three examples with different ‘Question’ and ‘Answer’ in Latin:
+
+Example 1:
+Question: Sicilia ~ est.
+Answer: insula
+
+Example 2: 
+Question: ~ est Sparta?
+Answer: Ubi
+
+Example 3:
+Question: III ~ est.
+Answer: numerus
+

@@ -1,0 +1,8 @@
+The ~ in each question represents a piece of missing information. Answer the following questions by filling in the ~. Provide the answer only.
+
+Here is an example with ‘Question’ and ‘Answer’ in Latin:
+
+Example:
+Question: ~ est Sparta?
+Answer: Ubi
+

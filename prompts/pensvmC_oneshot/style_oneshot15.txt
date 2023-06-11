@@ -1,0 +1,8 @@
+Given a list of questions in Latin, provide a proper response in Latin. Your goal is to comprehend the question and provide a sensible answer. Provide the answer only. 
+
+Here is an example with ‘Question’ and ‘Answer’ in Latin:
+
+Example:
+Question: Ubi est Roma?
+Answer: Roma in Italia est.
+

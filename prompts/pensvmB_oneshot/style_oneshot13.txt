@@ -1,0 +1,8 @@
+This is a Latin quiz. Interpret the questions and fill in the ~ with the missing information. Your sentence should be both grammatically correct and factually correct. Provide the answer only.
+
+Here is an example with ‘Question’ and ‘Answer’ in Latin:
+
+Example:
+Question: Sicilia ~ est.
+Answer: insula
+
