@@ -1,0 +1,2 @@
+Each ~ represents a missing phrase. Based on this knowledge, figure out what phrase should replace the ~ in the question. This quiz is in Latin. <example>. Provide the answer only.
+

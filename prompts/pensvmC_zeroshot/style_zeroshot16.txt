@@ -1,0 +1,2 @@
+For each Latin question, you need to comprehend the question and generate an accurate response in Latin. Keep in mind that your answers should maintain the proper grammatical structure of the Latin language. <example>. Provide the answer only. 
+
